@@ -1,0 +1,149 @@
+20240222 23:23:12 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java60 - current browser closed
+20240222 23:41:10 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java62 - current browser closed
+20240222 23:43:10 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java62 - current browser closed
+20240223 00:15:11 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java57 - https://login.salesforce.com/is entered
+20240223 00:16:08 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java57 - https://login.salesforce.com/is entered
+20240223 00:54:00 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java57 - https://login.salesforce.com/is entered
+20240223 01:04:06 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java57 - https://login.salesforce.com/is entered
+20240225 16:42:23 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java65 - https://login.salesforce.com/is entered
+20240225 16:42:26 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240225 16:42:26 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240225 16:42:26 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240225 16:42:27 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240225 16:42:31 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240225 16:42:32 INFO  [main] base.BasePage BasePage.java56 - click leadsTabbutton is clicked
+20240225 16:42:35 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java70 - current browser closed
+20240225 16:42:40 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java65 - https://login.salesforce.com/is entered
+20240225 16:42:43 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240225 16:42:44 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240225 16:42:44 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240225 16:42:44 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240225 16:42:46 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240225 16:42:50 INFO  [main] base.BasePage BasePage.java56 - click leadsTabbutton is clicked
+20240225 16:42:53 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java70 - current browser closed
+20240225 18:20:59 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java65 - https://login.salesforce.com/is entered
+20240225 18:21:02 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240225 18:21:02 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240225 18:21:02 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240225 18:21:02 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240225 18:21:04 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240225 18:21:07 INFO  [main] base.BasePage BasePage.java56 - click leadsTabbutton is clicked
+20240225 18:21:10 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java70 - current browser closed
+20240225 18:21:12 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java65 - https://login.salesforce.com/is entered
+20240225 18:21:15 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240225 18:21:15 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240225 18:21:15 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240225 18:21:15 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240225 18:21:17 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240225 18:21:19 INFO  [main] base.BasePage BasePage.java56 - click leadsTabbutton is clicked
+20240225 18:21:22 INFO  [main] base.BasePage BasePage.java56 - LeadsDropDownbutton is clicked
+20240225 18:21:22 INFO  [main] base.BasePage BasePage.java67 - text is extracted from dropDownLeads
+20240225 18:21:22 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java70 - current browser closed
+20240225 18:21:24 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java65 - https://login.salesforce.com/is entered
+20240225 18:21:27 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240225 18:21:27 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240225 18:21:27 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240225 18:21:27 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240225 18:21:28 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240225 18:21:30 INFO  [main] base.BasePage BasePage.java56 - click leadsTabbutton is clicked
+20240225 18:21:33 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java70 - current browser closed
+20240225 18:43:39 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java65 - https://login.salesforce.com/is entered
+20240225 18:43:42 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240225 18:43:42 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240225 18:43:42 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240225 18:43:42 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240225 18:43:44 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240225 18:43:46 INFO  [main] base.BasePage BasePage.java56 - click leadsTabbutton is clicked
+20240225 18:43:49 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java70 - current browser closed
+20240225 21:47:26 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java65 - https://login.salesforce.com/is entered
+20240225 21:47:29 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240225 21:47:30 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240225 21:47:30 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240225 21:47:30 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240225 21:47:37 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240225 21:47:37 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java70 - current browser closed
+20240225 21:47:40 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java65 - https://login.salesforce.com/is entered
+20240225 21:47:43 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240225 21:47:44 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240225 21:47:44 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240225 21:47:44 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240225 21:47:46 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240225 21:47:47 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java70 - current browser closed
+20240225 21:47:50 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java65 - https://login.salesforce.com/is entered
+20240225 21:47:53 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240225 21:47:54 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240225 21:47:54 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240225 21:47:54 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240225 21:47:56 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240225 21:47:56 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java70 - current browser closed
+20240225 21:47:59 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java65 - https://login.salesforce.com/is entered
+20240225 21:48:02 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240225 21:48:02 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240225 21:48:02 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240225 21:48:03 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240225 21:48:07 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240225 21:48:08 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java70 - current browser closed
+20240226 00:33:15 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java68 - https://login.salesforce.com/is entered
+20240226 00:33:18 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240226 00:33:18 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240226 00:33:18 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240226 00:33:19 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240226 00:33:21 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240226 00:33:25 INFO  [main] base.BasePage BasePage.java56 - contact Tab Buttonbutton is clicked
+20240226 00:33:25 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java73 - current browser closed
+20240226 00:33:28 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java68 - https://login.salesforce.com/is entered
+20240226 00:33:31 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240226 00:33:31 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240226 00:33:31 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240226 00:33:32 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240226 00:33:36 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240226 00:33:39 INFO  [main] base.BasePage BasePage.java56 - contact Tab Buttonbutton is clicked
+20240226 00:33:40 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java73 - current browser closed
+20240226 00:33:42 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java68 - https://login.salesforce.com/is entered
+20240226 00:33:45 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240226 00:33:45 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240226 00:33:45 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240226 00:33:46 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240226 00:33:52 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240226 00:33:54 INFO  [main] base.BasePage BasePage.java56 - contact Tab Buttonbutton is clicked
+20240226 00:33:54 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java73 - current browser closed
+20240226 00:33:57 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java68 - https://login.salesforce.com/is entered
+20240226 00:34:00 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240226 00:34:00 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240226 00:34:00 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240226 00:34:01 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240226 00:34:03 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240226 00:34:08 INFO  [main] base.BasePage BasePage.java56 - contact Tab Buttonbutton is clicked
+20240226 00:34:08 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java73 - current browser closed
+20240226 00:51:25 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java68 - https://login.salesforce.com/is entered
+20240226 00:51:28 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240226 00:51:29 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240226 00:51:29 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240226 00:51:29 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240226 00:51:31 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240226 00:51:35 INFO  [main] base.BasePage BasePage.java56 - contact Tab Buttonbutton is clicked
+20240226 00:51:35 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java73 - current browser closed
+20240226 00:51:38 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java68 - https://login.salesforce.com/is entered
+20240226 00:51:41 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240226 00:51:42 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240226 00:51:42 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240226 00:51:42 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240226 00:51:44 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240226 00:51:47 INFO  [main] base.BasePage BasePage.java56 - contact Tab Buttonbutton is clicked
+20240226 00:51:48 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java73 - current browser closed
+20240226 00:51:50 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java68 - https://login.salesforce.com/is entered
+20240226 00:51:53 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240226 00:51:54 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240226 00:51:54 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240226 00:51:54 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240226 00:51:56 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240226 00:52:00 INFO  [main] base.BasePage BasePage.java56 - contact Tab Buttonbutton is clicked
+20240226 00:52:01 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java73 - current browser closed
+20240226 00:52:03 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java68 - https://login.salesforce.com/is entered
+20240226 00:52:06 INFO  [main] base.BasePage BasePage.java41 - username field - preparing to enterText 
+20240226 00:52:07 INFO  [main] base.BasePage BasePage.java45 - data is entered in username field
+20240226 00:52:07 INFO  [main] base.BasePage BasePage.java41 - password field - preparing to enterText 
+20240226 00:52:07 INFO  [main] base.BasePage BasePage.java45 - data is entered in password field
+20240226 00:52:10 INFO  [main] base.BasePage BasePage.java56 - loginButtonbutton is clicked
+20240226 00:52:18 INFO  [main] base.BasePage BasePage.java56 - contact Tab Buttonbutton is clicked
+20240226 00:52:19 INFO  [main] Stepdef.LoginStepdef LoginStepdef.java73 - current browser closed
